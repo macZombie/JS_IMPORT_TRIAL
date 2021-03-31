@@ -14,3 +14,13 @@
   150  ls
   151  node start.js
   152  history
+
+
+  OK.... So node start.js works
+
+  but it doesn't work in the browser, even if VS Code is hosting the program
+
+  It's because require isn't recognised....apparently....
+
+  
+
