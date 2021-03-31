@@ -1,0 +1,16 @@
+  137  pwd
+  138  cd Desktop
+  139  ls
+  140  mkdir IMPORTS
+  141  cd IMPORTS
+  142  touch app.js
+  143  touch data.js
+  144  touch start.js
+  145  npm init -y
+  146  ls
+  147  npm install babel-register babel-preset-env --save-dev
+  148  ls
+  149  scite &
+  150  ls
+  151  node start.js
+  152  history
